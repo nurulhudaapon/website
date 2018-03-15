@@ -1,0 +1,11 @@
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.ymySlides {
+border: solid 5px #c0c0c0;
+border-radius: 10px;
+border-top-left-radius:0px;
+border-top-right-radius:0px;
+}
+</style>
+<iframe class="ymySlides" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQafzpYnUpJNViuF627_YeUFZHhJC1lM19Gw30sYcg8rRIx6Um4YuMAgS04T4jZCt6lp28w4Win4-q5/pubhtml?single=true&gid=703777934&range=r11:r31&widget=false&chrome=false" 
+width="100%" height="100%" style="embed" frameborder=no"></iframe>
